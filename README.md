@@ -1,8 +1,8 @@
-## Alec J. Thomas
+# Alec J. Thomas
 
-Operations leader with experience spanning the United States Air Force, the Central Intelligence Agency, Amazon, and private industry.
+Operations and intelligence professional with experience spanning the United States Air Force, the Central Intelligence Agency, Amazon, and private industry.
 
-I am currently pursuing an Executive MBA and an M.S. in Cybersecurity & Business Analytics while developing practical solutions in Python, SQL, automation, and business analytics.
+I am currently pursuing an Executive MBA and an M.S. in Cybersecurity & Business Analytics while building practical solutions in Python, SQL, data analysis, and process automation.
 
 ---
 
@@ -12,22 +12,35 @@ I am currently pursuing an Executive MBA and an M.S. in Cybersecurity & Business
 - SQL
 - Business Analytics
 - Cybersecurity
-- Data Analysis
 - Process Improvement
 - Project Management
+- Data Analysis
 
 ---
 
 ## Current Projects
 
-- Python Portfolio 
-- SQL Portfolio *(In Progress)*
-- Healthcare Credential Platform *(Prototype)*
-- Business Analytics Projects *(In Progress)*
+🚧 Python Portfolio
+
+🚧 SQL Portfolio
+
+🚧 Healthcare Credential Platform
+
+🚧 Business Analytics Projects
+
+---
+
+## Education
+
+- Executive MBA Candidate
+- M.S. Cybersecurity & Business Analytics
+- M.A. Intelligence Studies
+- B.A. Political Science & International Relations
 
 ---
 
 ## Connect
 
 **LinkedIn**
-linkedin.com/in/alecarei
+
+https://linkedin.com/in/alecarei
