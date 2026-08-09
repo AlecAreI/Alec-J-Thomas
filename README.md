@@ -41,6 +41,4 @@ I am currently pursuing an Executive MBA and an M.S. in Cybersecurity & Business
 
 ## Connect
 
-**LinkedIn**
-
-https://linkedin.com/in/alecarei
+[LinkedIn](https://www.linkedin.com/in/alecarei)
