@@ -1,6 +1,6 @@
 # Alec J. Thomas
 
-Operations and intelligence professional with experience spanning the United States Air Force, the Central Intelligence Agency, Amazon, and private industry.
+Operations and intelligence professional with experience spanning the United States Air Force, the Intelligence Community, Amazon, and private industry.
 
 I am currently pursuing an Executive MBA and an M.S. in Cybersecurity & Business Analytics while building practical solutions in Python, SQL, data analysis, and process automation.
 
@@ -20,9 +20,9 @@ I am currently pursuing an Executive MBA and an M.S. in Cybersecurity & Business
 
 ## Current Projects
 
-🚧 Python Portfolio
+🚧 PMP Certification 
 
-🚧 SQL Portfolio
+🚧 CompTIA Security+
 
 🚧 Healthcare Credential Platform
 
